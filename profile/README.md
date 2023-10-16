@@ -43,13 +43,13 @@ The workflow of PromptMe is as follows:
 
 ### Tokenomics
 
-PMT tokens are at the core of PromptMe's incentive system. These tokens have several use cases, including:
+- PMT tokens are at the core of PromptMe's incentive system. These tokens have several use cases, including:
 
-Rewarding Users: Users earn PMT tokens for generating prompts, rating prompt quality, and participating in platform governance.
+- Rewarding Users: Users earn PMT tokens for generating prompts, rating prompt quality, and participating in platform governance.
 
-Governance: PMT token holders have the ability to participate in platform governance, influencing platform decisions.
+- Governance: PMT token holders have the ability to participate in platform governance, influencing platform decisions.
 
-Staking: Users can stake PMT tokens to earn additional rewards and secure the network.
+- Staking: Users can stake PMT tokens to earn additional rewards and secure the network.
 
 
 ### In-App Purchases
